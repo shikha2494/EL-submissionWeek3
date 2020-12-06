@@ -16,7 +16,132 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a95fcb5-ab06-40b4-b729-cb8bcad4e354" name="Default Changelist" comment="workspace file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/lab/lab-responses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/lab/mock-lab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/api/mock-auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/api/mock-authority.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/api/mock-consultation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/api/mock-testrequests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/component-helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/data/auth-responses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/data/authority-responses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/data/authority-store-responses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/data/consulation-responses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/data/testrequest-flows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/data/testrequests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/data/threshold-responses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/frameworks/mock-http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/frameworks/mock-notification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/__testshared/shared/store/mock-store-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/public/assets/bp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/App.Renderer.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/auth/Login.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/auth/Register.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/auth/authDispatcher.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/auth/authStore.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/authority/AuthorityDashboard.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/authority/PendingApprovals.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/authority/UpdateThreshold.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/authority/ViewAllRequests.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/authority/components/PendingApprovalActions.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/authority/components/ViewAttachmentButton.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/authority/shared/authority-data-parser.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/authority/shared/authorityStore.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/authority/shared/dashboard-charts.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/authority/shared/view-all-request-options.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/component/Navbar.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/component/components.test.ts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/config/store.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/consultation/ConsultationHistory.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/consultation/PendingConsultations.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/consultation/UpdateConsultation.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/documents/UploadDocument.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/lab/LabHistory.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/lab/PendingLabTests.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/lab/UpdateLabResult.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/shared/common-helper.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/shared/confirm/ConfirmMessageComponent.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/testrequests/RequestHistory.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/testrequests/RequestTest.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/testrequests/TestFlow.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/__tests__/testrequests/UserHistory.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/auth/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/auth/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/auth/authDispatcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/auth/authStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/auth/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/authority/AuthorityDashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/authority/PendingApprovals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/authority/UpdateThreshold.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/authority/ViewAllRequests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/authority/components/PendingApprovalActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/authority/components/ViewAttachmentButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/authority/shared/approval-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/authority/shared/authority-data-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/authority/shared/authorityDispatcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/authority/shared/dashboard-charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/authority/shared/pending-user-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/authority/shared/view-all-request-options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/authority/store/authorityStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/component/Forbidden.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/component/LoadingView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/component/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/component/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/config/create-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/config/reducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/config/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/consultation/ConsultationHistory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/consultation/PendingConsultations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/consultation/UpdateConsultation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/consultation/consultationDispatcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/documents/UploadDocument.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/environment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/items.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/lab/LabHistory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/lab/PendingLabTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/lab/UpdateLabResult.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/lab/labDispatcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/profile/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/shared/GuardedRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/shared/common-helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/shared/confirm/confirm-message-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/shared/confirm/confirm-message-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/shared/date-helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/shared/loader/loading-indicator-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/shared/loader/loading-indicator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/shared/notification/app-notification-component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/shared/notification/app-notification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/shared/services/http-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/styles/GlobalStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/testrequests/ConsultationResultDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/testrequests/LabResultDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/testrequests/RequestHistory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/testrequests/RequestTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/testrequests/TestFlow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/testrequests/TestRequestDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/testrequests/UserHistory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/testrequests/testRequestDispatcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/src/upgrad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upstac-ui/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +180,7 @@
       <updated>1607275263499</updated>
       <workItem from="1607275265575" duration="299000" />
       <workItem from="1607275805277" duration="1478000" />
-      <workItem from="1607277557267" duration="698000" />
+      <workItem from="1607277557267" duration="1038000" />
     </task>
     <task id="LOCAL-00001" summary="java files">
       <created>1607276478568</created>
@@ -92,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607277829892</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="workspace file">
+      <created>1607278457623</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607278457623</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,13 +289,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607277735248" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607277839845">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607278477545">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607277839845" />
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607278257212">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607278477545" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607278425002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607278257212" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607278425002" />
   </component>
 </project>
