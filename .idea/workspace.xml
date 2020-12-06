@@ -16,9 +16,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a95fcb5-ab06-40b4-b729-cb8bcad4e354" name="Default Changelist" comment="java files">
-      <change afterPath="$PROJECT_DIR$/UPSTAC-Week3-assignment.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UPSTAC-Week3-assignment" beforeDir="false" />
+    <list default="true" id="5a95fcb5-ab06-40b4-b729-cb8bcad4e354" name="Default Changelist" comment="UI files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607275263499</updated>
       <workItem from="1607275265575" duration="299000" />
-      <workItem from="1607275805277" duration="997000" />
+      <workItem from="1607275805277" duration="1478000" />
     </task>
     <task id="LOCAL-00001" summary="java files">
       <created>1607276478568</created>
@@ -71,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607276517428</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="java files">
+      <created>1607276821404</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607276821404</updated>
+    </task>
+    <task id="LOCAL-00004" summary="UI files">
+      <created>1607276926666</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607276926666</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +101,17 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
@@ -97,7 +121,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="java files" />
-    <option name="LAST_COMMIT_MESSAGE" value="java files" />
+    <MESSAGE value="UI files" />
+    <option name="LAST_COMMIT_MESSAGE" value="UI files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="434" y="187" key="#Notifications" timestamp="1607275459803">
@@ -120,14 +145,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607275419235" />
+    <state x="263" y="106" key="IDE.errors.dialog" timestamp="1607277227998">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="106" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1607277227998" />
     <state x="545" y="83" key="RollbackChangesDialog" timestamp="1607275868828">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="545" y="83" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1607275868828" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607276791126">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607276941741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607276791126" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607276941741" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607275503416">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
