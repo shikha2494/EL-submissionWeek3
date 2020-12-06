@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GitRepo2.iml" filepath="$PROJECT_DIR$/.idea/GitRepo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UPSTAC-Week3-assignment/upstac-api-w3.iml" filepath="$PROJECT_DIR$/UPSTAC-Week3-assignment/upstac-api-w3.iml" />
     </modules>
   </component>
 </project>
