@@ -15,9 +15,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a95fcb5-ab06-40b4-b729-cb8bcad4e354" name="Default Changelist" comment="UI files">
-      <change beforePath="$PROJECT_DIR$/upstac-ui.zip" beforeDir="false" />
-    </list>
+    <list default="true" id="5a95fcb5-ab06-40b4-b729-cb8bcad4e354" name="Default Changelist" comment="removing UI zip file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +49,19 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="ssh.settings" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +72,7 @@
       <updated>1607275263499</updated>
       <workItem from="1607275265575" duration="299000" />
       <workItem from="1607275805277" duration="1478000" />
-      <workItem from="1607277557267" duration="1368000" />
+      <workItem from="1607277557267" duration="2044000" />
     </task>
     <task id="LOCAL-00001" summary="java files">
       <created>1607276478568</created>
@@ -112,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607278763193</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="removing UI zip file">
+      <created>1607278950611</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607278950611</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +160,8 @@
     <MESSAGE value="java files" />
     <MESSAGE value="workspace file" />
     <MESSAGE value="UI files" />
-    <option name="LAST_COMMIT_MESSAGE" value="UI files" />
+    <MESSAGE value="removing UI zip file" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing UI zip file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="434" y="187" key="#Notifications" timestamp="1607278146161">
@@ -177,13 +196,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607277735248" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607278790963">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607278961581">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607278790963" />
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607278425002">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607278961581" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607278990751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607278425002" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607278990751" />
   </component>
 </project>
