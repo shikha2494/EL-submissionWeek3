@@ -11,12 +11,11 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a95fcb5-ab06-40b4-b729-cb8bcad4e354" name="Default Changelist" comment="UI files">
+    <list default="true" id="5a95fcb5-ab06-40b4-b729-cb8bcad4e354" name="Default Changelist" comment="workspace file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="ssh.settings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,6 +55,7 @@
       <updated>1607275263499</updated>
       <workItem from="1607275265575" duration="299000" />
       <workItem from="1607275805277" duration="1478000" />
+      <workItem from="1607277557267" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="java files">
       <created>1607276478568</created>
@@ -84,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607276926666</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="workspace file">
+      <created>1607277829892</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607277829892</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,34 +109,26 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
+              <option name="BEK_SORT_TYPE" value="1" />
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="java files" />
     <MESSAGE value="UI files" />
-    <option name="LAST_COMMIT_MESSAGE" value="UI files" />
+    <MESSAGE value="workspace file" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="434" y="187" key="#Notifications" timestamp="1607275459803">
+    <state x="434" y="187" key="#Notifications" timestamp="1607278146161">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="434" y="187" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1607275459803" />
+    <state x="434" y="187" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1607278146161" />
     <state x="163" y="0" key="#Project_Structure" timestamp="1607275832111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -153,13 +153,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="545" y="83" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1607275868828" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607276941741">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1607277735248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607276941741" />
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607275503416">
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607277735248" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607277839845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607275503416" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607277839845" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607278257212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607278257212" />
   </component>
 </project>
